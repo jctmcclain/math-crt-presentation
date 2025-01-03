@@ -31,8 +31,3 @@
   
   Statton Learning Commons
 
-
-## Technology used for this presentation
-* GitHub Pages
-* Jekyll 
-* Reveal-js
