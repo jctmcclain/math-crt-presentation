@@ -2,20 +2,20 @@
 24 - 25 SoTL Mini Grant
 
 ## Faculty Sponsor 
-* Gerald W. Kruse, Ph.D.
+* ***Gerald W. Kruse, Ph.D.***
 
   John and Irene Dale Professor of Mathematics, Computer Science, and Information Technology 
 
 
 ## Staff Sponsor
-* Tom McClain
+* ***Tom McClain***
 
   Office of Digital Learning
   
   Statton Learning Commons
 
 ## Collaborators
-* Luke Becker
+* ***Luke Becker***
 
   Office of Digital Learning
   
@@ -23,7 +23,7 @@
   
   Statton Learning Commons
   
-* Ava Cook
+* ***Ava Cook***
 
   Office of Digital Learning
   
