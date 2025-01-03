@@ -31,3 +31,8 @@
   
   Statton Learning Commons
 
+
+## Technology 
+* Github Pages
+* [reveal-jekyll](https://gitlab.com/tasmo/reveal-jekyll)
+
